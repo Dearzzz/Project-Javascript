@@ -94,3 +94,9 @@ function suffle (array){
     }
 }   
 
+
+date = new Date();
+
+const year = date.getFullYear();
+
+console.info(year);
